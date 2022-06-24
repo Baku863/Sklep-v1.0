@@ -1,0 +1,10 @@
+Kod      Nazwa                  Status     Szt.    Cena   
+000000   Nic                    dostepny   20      1.02   
+000001   Pasta_do_zebow         brak       0       3.00   
+000002   Olowek                 dostepny   100     0.50   
+000003   Cukierki               brak       0       19.99  
+000004   Gabka                  brak       0       1001.96
+000006   Gruszki_z_wierzby      brak       0       7.45   
+000010   Mleko                  brak       0       3.49   
+000011   Klawiatura             brak       0       11.99  
+000013   Myszka                 dostepny   25      8.99   

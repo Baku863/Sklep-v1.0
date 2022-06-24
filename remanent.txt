@@ -1,0 +1,10 @@
+Kod      Nazwa                  Status     Szt.    Cena   
+000000   Nic_dentystyczna       brak       0       1.02   
+000001   Pasta_do_zebow         brak       0       3.00   
+000004   Gabka                  brak       0       1001.96
+000005   Mydlo                  brak       0       11.99  
+000006   Gruszki_z_wierzby      brak       0       7.45   
+000007   Cukierki               brak       0       19.50  
+000010   Mleko                  brak       0       3.49   
+000011   Klawiatura             brak       0       11.99  
+000013   Myszka                 brak       0       8.99 
